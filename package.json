@@ -1,0 +1,8 @@
+{
+  "name": "basic-javascript",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:kevinnchristian/basic-javascript.git",
+  "author": "kevinnchristian <kevin.cmribeiro@outlook.com>",
+  "license": "MIT"
+}

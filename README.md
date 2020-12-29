@@ -1,5 +1,5 @@
 # Básico de Javascript
-Este repo tem como objetivo de ser um conjunto de princípios básico da linguagem de programação javascript.
+Este repo tem como objetivo ser um conjunto de princípios básico da linguagem de programação javascript.
 
 ### Assuntos abordados:
 - `Variáveis`
