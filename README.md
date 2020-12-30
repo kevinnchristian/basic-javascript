@@ -12,12 +12,12 @@ Este repo tem como objetivo ser um conjunto de princípios básico da linguagem 
 - `Spread Operator`
 - `JSON`
 - `Métodos de Strings`
+- `Arrow Functions`
+- `Callbacks`
+- `Assincronismo`
+- `Closures`
 - `Arrays`
 - `Métodos de Arrays`
 - `for of` e `for in`
 - `Object Date()`
 - `Desestrututação`
-- `Arrow Functions`
-- `Callbacks`
-- `Assincronismo`
-- `Closures`
